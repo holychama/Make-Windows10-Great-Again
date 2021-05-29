@@ -1,5 +1,5 @@
 # Make Windows 10 Great Again
-# github/holychama
+github.com/holychama
 Tweaks to make Windows 10 less annoying and more usable.
 
 Here's what this script does:
